@@ -1,2 +1,0 @@
-# ETL-code
-## just pratice
